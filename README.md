@@ -10,4 +10,4 @@ This is a image classification model using inception model from tensorflow. This
 Run command - python train.py
 
 ### Classify Test set
-Run command - python classify.py <image path>
+Run command - python classify.py <image_path>
