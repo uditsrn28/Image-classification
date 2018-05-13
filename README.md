@@ -11,3 +11,7 @@ Run command - python train.py
 
 ### Classify Test set
 Run command - python classify.py <image_path>
+
+### Image Augmentation
+To create more variation in the dataset using the given train test, use the data_augmentation.py script. It will take the data from train set and apply multiple algorithms to generate variation in the datasets. The resulting images will be stored in the images folder under the appropriate labels. 
+Run command - python data_augmentation.py
